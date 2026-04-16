@@ -93,12 +93,13 @@ That's it. Your AI now operates at expert level.
 | [AI Code Audit Guide](skills/AI-CODE-AUDIT-GUIDE.md) | Turns AI into a principal-level code reviewer | Code review, security audit, pre-launch quality check |
 | [AI Requirements & PRD Generator](skills/AI-REQUIREMENT-AND-PRD.md) | Turns AI into a product director for requirements & PRD | Requirements breakdown, PRD writing, competitor analysis, MVP scoping |
 | [AI Database Design Master](skills/AI-DATABASE-DESIGN-MASTER.md) | Turns AI into a senior DBA + architect for database design | Table design, index optimization, SQL standards, sharding |
+| [AI API Design Guide](skills/AI-API-DESIGN-GUIDE.md) | RESTful / GraphQL API design, one shot | API design, status codes, error handling, auth, versioning |
 
 ### 🔨 In Development
 
 | Skill File | Description | ETA |
 |---------|-----------|---------|
-| AI API Design Guide | RESTful / GraphQL API design, one shot | Next week |
+| AI Testing Automation | Unit / Integration / E2E tests, one click | Next week |
 
 > See full [Roadmap](#-roadmap) below.
 
@@ -106,7 +107,7 @@ That's it. Your AI now operates at expert level.
 
 Organized by the **real development lifecycle** — covering every aspect of a programmer's work.
 
-### Phase 1: Development Core ✅ In Progress
+### Phase 1: Development Core ✅ Complete
 
 | # | Skill File | Description | Status |
 |---|---------|------|------|
@@ -114,7 +115,7 @@ Organized by the **real development lifecycle** — covering every aspect of a p
 | 2 | AI Code Audit Guide | Principal-level Code Review standards | ✅ Released |
 | 3 | AI Requirements & PRD Generator | Break down requirements like a product director | ✅ Released |
 | 4 | AI Database Design Master | High-performance database design & optimization | ✅ Released |
-| 5 | AI API Design Guide | RESTful / GraphQL API design | 📋 Planned |
+| 5 | AI API Design Guide | RESTful / GraphQL API design | ✅ Released |
 
 ### Phase 2: Engineering Excellence
 

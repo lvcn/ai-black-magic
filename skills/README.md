@@ -21,7 +21,7 @@
 | [AI 代码审核实战手册](AI-CODE-AUDIT-GUIDE.md) | 大厂级 Code Review 标准，P0/P1/P2 分级 | ✅ |
 | [AI 需求分析与 PRD 生成实战手册](AI-REQUIREMENT-AND-PRD.md) | 像产品总监一样拆解需求、输出 PRD | ✅ |
 | [AI 数据库设计大师](AI-DATABASE-DESIGN-MASTER.md) | 高性能库表设计与优化 | ✅ |
-| AI 接口设计规范 | RESTful / GraphQL 一步到位 | 📋 |
+| [AI 接口设计规范](AI-API-DESIGN-GUIDE.md) | RESTful / GraphQL 一步到位 | ✅ |
 
 ## 第二阶段：工程进阶
 

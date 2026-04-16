@@ -93,12 +93,13 @@ git clone https://github.com/lvcn/ai-black-magic.git
 | [AI 代码审核实战手册](skills/AI-CODE-AUDIT-GUIDE.md) | 让 AI 拥有大厂技术专家的 Code Review 能力 | 代码审核、安全审计、上线前质量把关 |
 | [AI 需求分析与 PRD 生成实战手册](skills/AI-REQUIREMENT-AND-PRD.md) | 让 AI 像产品总监一样拆解需求、输出 PRD | 需求拆解、PRD 撰写、竞品分析、MVP 规划 |
 | [AI 数据库设计大师](skills/AI-DATABASE-DESIGN-MASTER.md) | 让 AI 按阿里规范设计高性能数据库 | 库表设计、索引优化、SQL 规范、分库分表 |
+| [AI 接口设计规范](skills/AI-API-DESIGN-GUIDE.md) | RESTful / GraphQL 接口设计一步到位 | API 设计、状态码、错误处理、安全认证、版本管理 |
 
 ### 🔨 开发中（即将发布）
 
 | 技能文件 | 一句话说明 | 预计发布 |
 |---------|-----------|---------|
-| AI 接口设计规范 | RESTful / GraphQL 一步到位 | 下周 |
+| AI 自动化测试全攻略 | 单测/集成测试/E2E 一键生成 | 下周 |
 
 > 完整路线图见 [路线图章节](#-路线图)
 
@@ -106,7 +107,7 @@ git clone https://github.com/lvcn/ai-black-magic.git
 
 按照**真实开发流程**组织，覆盖程序员工作的方方面面。
 
-### 第一阶段：开发核心（基础能力） ✅ 进行中
+### 第一阶段：开发核心（基础能力） ✅ 已完成
 
 > 覆盖日常开发中最高频、最痛的场景
 
@@ -116,7 +117,7 @@ git clone https://github.com/lvcn/ai-black-magic.git
 | 2 | AI 代码审核实战手册 | 大厂级 Code Review 标准 | ✅ 已发布 |
 | 3 | AI 需求分析与 PRD 生成 | 像产品总监一样拆解需求 | ✅ 已发布 |
 | 4 | AI 数据库设计大师 | 高性能数据库设计与优化 | ✅ 已发布 |
-| 5 | AI 接口设计规范 | RESTful / GraphQL API 设计 | 📋 排期中 |
+| 5 | AI 接口设计规范 | RESTful / GraphQL API 设计 | ✅ 已发布 |
 
 ### 第二阶段：工程进阶（提升上限）
 
