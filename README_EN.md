@@ -91,12 +91,12 @@ That's it. Your AI now operates at expert level.
 |---------|-----------|---------|
 | [AI Full-Stack Development Guide](skills/AI-FULLSTACK-DEVELOPMENT-GUIDE.md) | Turns AI into a senior full-stack architect | Build complete projects from scratch, including China market features (WeChat / Alipay / ICP) |
 | [AI Code Audit Guide](skills/AI-CODE-AUDIT-GUIDE.md) | Turns AI into a principal-level code reviewer | Code review, security audit, pre-launch quality check |
+| [AI Requirements & PRD Generator](skills/AI-REQUIREMENT-AND-PRD.md) | Turns AI into a product director for requirements & PRD | Requirements breakdown, PRD writing, competitor analysis, MVP scoping |
 
 ### 🔨 In Development
 
 | Skill File | Description | ETA |
 |---------|-----------|---------|
-| AI Requirements & PRD Generator | Breaks down requirements like a product director | Week 2 |
 | AI Database Design Master | High-performance database design following Alibaba standards | Week 2 |
 | AI API Design Guide | RESTful / GraphQL API design, one shot | Week 3 |
 
@@ -112,7 +112,7 @@ Organized by the **real development lifecycle** — covering every aspect of a p
 |---|---------|------|------|
 | 1 | AI Full-Stack Development Guide | End-to-end dev standards, requirements to deployment | ✅ Released |
 | 2 | AI Code Audit Guide | Principal-level Code Review standards | ✅ Released |
-| 3 | AI Requirements & PRD Generator | Break down requirements like a product director | 🔨 Dev |
+| 3 | AI Requirements & PRD Generator | Break down requirements like a product director | ✅ Released |
 | 4 | AI Database Design Master | High-performance database design & optimization | 🔨 Dev |
 | 5 | AI API Design Guide | RESTful / GraphQL API design | 📋 Planned |
 
