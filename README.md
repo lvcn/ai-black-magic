@@ -92,13 +92,13 @@ git clone https://github.com/lvcn/ai-black-magic.git
 | [AI 全栈开发实战手册](skills/AI-FULLSTACK-DEVELOPMENT-GUIDE.md) | 让 AI 拥有资深全栈工程师的架构决策能力 | 从 0 到 1 开发完整项目，含中国市场专项（微信/支付宝/备案） |
 | [AI 代码审核实战手册](skills/AI-CODE-AUDIT-GUIDE.md) | 让 AI 拥有大厂技术专家的 Code Review 能力 | 代码审核、安全审计、上线前质量把关 |
 | [AI 需求分析与 PRD 生成实战手册](skills/AI-REQUIREMENT-AND-PRD.md) | 让 AI 像产品总监一样拆解需求、输出 PRD | 需求拆解、PRD 撰写、竞品分析、MVP 规划 |
+| [AI 数据库设计大师](skills/AI-DATABASE-DESIGN-MASTER.md) | 让 AI 按阿里规范设计高性能数据库 | 库表设计、索引优化、SQL 规范、分库分表 |
 
 ### 🔨 开发中（即将发布）
 
 | 技能文件 | 一句话说明 | 预计发布 |
 |---------|-----------|---------|
-| AI 数据库设计大师 | 让 AI 按阿里规范设计高性能数据库 | 第 2 周 |
-| AI 接口设计规范 | RESTful / GraphQL 一步到位 | 第 3 周 |
+| AI 接口设计规范 | RESTful / GraphQL 一步到位 | 下周 |
 
 > 完整路线图见 [路线图章节](#-路线图)
 
@@ -115,7 +115,7 @@ git clone https://github.com/lvcn/ai-black-magic.git
 | 1 | AI 全栈开发实战手册 | 从需求到部署的全流程开发规范 | ✅ 已发布 |
 | 2 | AI 代码审核实战手册 | 大厂级 Code Review 标准 | ✅ 已发布 |
 | 3 | AI 需求分析与 PRD 生成 | 像产品总监一样拆解需求 | ✅ 已发布 |
-| 4 | AI 数据库设计大师 | 高性能数据库设计与优化 | 🔨 开发中 |
+| 4 | AI 数据库设计大师 | 高性能数据库设计与优化 | ✅ 已发布 |
 | 5 | AI 接口设计规范 | RESTful / GraphQL API 设计 | 📋 排期中 |
 
 ### 第二阶段：工程进阶（提升上限）
